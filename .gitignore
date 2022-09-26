@@ -1,0 +1,6 @@
+/contract/node_modules
+/contract/build
+
+/frontend/node_modules
+
+.DS_Store
